@@ -1,5 +1,5 @@
 # Classify_emo
-This project can classify people's emotions by picture.
+This app can classify people's emotions by picture.
 
-To run the application use the command:
+To run the app use the command:
 docker build . -t clas_emos && docker run -p 8080:8080  clas_emos
